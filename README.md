@@ -1,7 +1,7 @@
 # 2614Assign6
 Assignment 6 for my C# class
 
-This was the last assignment for my C# class that simulates a bank machine with Windows Forms.
+This was the last assignment for my C# class that simulates a bank machine with Windows Forms.  The business rules are not shown.
 
 Write a Windows Forms program that simulates a bank machine. Some of the specifications are rigid
 and you must following them closely for full marks, while others are more flexible, giving you the
